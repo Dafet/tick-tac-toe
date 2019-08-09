@@ -1,10 +1,9 @@
 package main
 
-import (
-	termbox "github.com/nsf/termbox-go"
-	"fmt"
-)
+import "fmt"
 
 func main() {
-termbox.
+	fmt.Println("x|x|x")
+	fmt.Println("x|x|x")
+	fmt.Println("x|x|x")
 }
